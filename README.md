@@ -1,3 +1,3 @@
 # hello-world-tutorial
-This line is added by Adwait as part of hois refresher!
+This line is added by Adwait as part of his refresher!
 One more.
